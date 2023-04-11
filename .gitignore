@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# rvemu
+rvemu
+out/
+core
+playground/
