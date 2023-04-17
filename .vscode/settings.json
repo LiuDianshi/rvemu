@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "elfdef.h": "c",
+        "types.h": "c"
+    }
+}
